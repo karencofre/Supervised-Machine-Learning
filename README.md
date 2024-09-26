@@ -1,4 +1,4 @@
-# Red Neuronal con keras - Machine Learning
+# Supervised Machine Learning
 
 Ficha Técnica: Proyecto de Análisis de Datos Predictivo
 
